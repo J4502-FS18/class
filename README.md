@@ -21,7 +21,9 @@ You should also have a browser on your computer. More than one is even better! A
 
 * [Chrome](https://www.google.com/chrome/browser/desktop/)
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/?product=firefox-3.6.8&os=osx%E3%80%88=en-US)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
 Looking forward to the class!  
 
